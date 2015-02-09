@@ -1,0 +1,33 @@
+body{padding: 0px;margin:0px;color: white;}
+
+#header{width: 100%;height: 56px;background-color: #000000;}
+
+#titlediv{width: 20%;height: 56px;float: left;text-align: center;line-height: 56px;font-size: 30px;}
+
+#searchform{width: 60%;height: 56px;float: left;line-height: 56px;}
+
+#searchdiv{height: 40px;width: 60%;display: inline-block;margin: 0px;padding: 0px;margin-top: 6px;margin-bottom: 6px;border: 2px;border-bottom: 0px;padding-left: 10px;border-style: solid;border-radius: 5px;border-color: #000000;font-size: 15px;}
+
+#searchbtn{height: 44px;width: 15%;margin-top: 6px;margin-bottom: 6px;margin-left: 0px;background-color: #22aaff;display: inline-block;text-align: center;line-height: 44px;border-width: 2px;border-style: solid;border-radius: 5px;border-color: #000000;padding: 0px;font-size: 15px;font-weight: 20;}
+
+#userdiv{height: 56px;width: 20%;line-height: 56px;float: left;font-size: 20px;color: #00CCCC;}
+
+#headpic{width: 30px;height: 30px;margin-top: 13px;margin-bottom: 13px;float: left;margin-left: 10px;margin-right: 5px;border-radius: 15px;}
+
+#container{width: 100%;height: 700px;background: url('/static/img/background.jpg');background-size:100% 700px;opacity: 1; }
+
+#centerword{line-height: 600px;font-size: 60px;text-align: center;}
+#searchresultdiv{width: 70%;text-align: center;float: left;}
+#searchresultdiv h2{height: 20px;margin-top: 20px;font-size: 30px;}
+/*#searchresultdiv div{height: 20px;width: 100%;font-size: 20px;}*/
+.stockinfo{font-size: 20px;}
+#spacediv{height: 50px;width: 100%;}
+
+#searchresultdiv2{width: 30%;text-align: left;float: left;margin-top: 105px;}
+
+#stockpicdiv{width: 545px;height: 300px;background: black;margin-left: auto;margin-right: auto;}
+#choosepicdiv{height: 42px;width: 448px;margin-left: auto;margin-right: auto;}
+#daybtn,#weekbtn,#monthbtn,#minbtn{height: 30px;width: 100px;background-color: black;margin: 4px;float: left;line-height: 30px;border-width: 2px;border-style: solid;border-radius: 5px;border-color: white;}
+
+#footer{position: absolute;bottom: 0px;width: 100%;height: 20px;background-color: black;text-align: center;}
+/*#bigstockpic{height: 600px;width: 1090px;margin-left: auto;margin-right: auto;display: none;position: absolute;top: 100px;}*/
